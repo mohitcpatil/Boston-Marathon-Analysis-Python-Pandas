@@ -40,15 +40,12 @@ Data :        {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0
   -  Design schemas for your fact and dimension tables
   
 
-- ** **
+- **Interesting findings**
 
     - Implement the logic in etl.py to load data from S3 to staging tables on Redshift.
-    - Implement the logic in etl.py to load data from staging tables to analytics tables on Redshift.
-    - Test by running etl.py after running create_tables.py and running the analytic queries on your Redshift database to compare your results with the expected results.
-    - Delete your redshift cluster when finished.
 
 
-# Results
+# Results 
 
 
 
