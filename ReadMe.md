@@ -43,9 +43,3 @@ Data :        {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0
 - **Interesting findings**
 
     - Implement the logic in etl.py to load data from S3 to staging tables on Redshift.
-
-
-# Results 
-
-
-
