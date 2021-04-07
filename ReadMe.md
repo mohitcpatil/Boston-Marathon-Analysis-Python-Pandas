@@ -33,13 +33,4 @@ Columns :     {bib,	split_name,	split,	split_time_sec,	split_time_result,	split_
 Data :        {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0:45:44,	1:01:15,	1:04:35,	1:16:59,	1:33:01,	1:48:19,	2:02:53,	0:04:57,	-	2:09:37,	1,	1,	1}
 
 
-## Steps Followed to create project 
 
-- **Cleaning and transforming the data**
-
-  -  Design schemas for your fact and dimension tables
-  
-
-- **Interesting findings**
-
-    - Implement the logic in etl.py to load data from S3 to staging tables on Redshift.
