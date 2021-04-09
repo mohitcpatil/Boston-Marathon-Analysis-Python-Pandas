@@ -33,3 +33,19 @@ Columns :     {bib,	split_name,	split,	split_time_sec,	split_time_result,	split_
 Data :        {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0:45:44,	1:01:15,	1:04:35,	1:16:59,	1:33:01,	1:48:19,	2:02:53,	0:04:57,	-	2:09:37,	1,	1,	1}
 
 
+# Spark ETL pipeline and Dashboards
+Summary of Jupyter notebook:
+###### 1. Intorduction
+- ETL Architecture
+- Schema for Dataset 
+###### 2. Data Extraction
+- Spark Partition
+###### 3. Data Transformation
+- Spark API's
+- Schema for Dataset
+###### 4. Data Loading 
+- Star Schema
+###### 5. Analytics and Dashboards
+- User Behavior Analytics
+- Campaign Analytics
+- Product Analytics
