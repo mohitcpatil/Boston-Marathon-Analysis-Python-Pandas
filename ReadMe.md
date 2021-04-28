@@ -24,8 +24,6 @@ Columns :     {Bib,	finish_time_sec,	finish_time_result,	race,	pace_sec,	pace(mi
 
 Data :       {1,	8911,	2h 28min 31sec,	42.195 km,	211.1861595,	3:31 min/km	17.0 km/h,	208.3185212,	3:28 min/km,	17.3 km/h,	Female,	30,	Sardana Trofimova,	–Ø–∫—É—Ç—Å–∫,	Yakutsk,	RUS,	0,	1,	0.000132899}
 
-### 3. Moscow Marathon Split Results 2018
-
 - **1_split_results_mm_2018.csv**
 
 
