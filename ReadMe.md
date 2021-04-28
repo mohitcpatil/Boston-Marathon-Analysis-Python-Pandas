@@ -17,7 +17,7 @@ Data :        {11,	Kirui, Geoffrey,	24,	M,	Keringet,		KEN,			0:15:25,	0:30:28,	0
      
 ### 2. Moscow Marathon Full Results 2018
 
-- **Below sample file 1_full_results_mm_2018.csv**
+- **1_full_results_mm_2018.csv**
 
 Columns :     {Bib,	finish_time_sec,	finish_time_result,	race,	pace_sec,	pace(minpkm),	pace(kmph),	half_pace_sec,	half_pace(minpkm),	half_pace(kmph),	gender_en,	agev	name_en,	location_city_ru,	location_city_en,	country_code_alpha_3,	flag_DNF,	flag_all_split_exist,	race_uniform_index}
 
@@ -26,7 +26,7 @@ Data :       {1,	8911,	2h 28min 31sec,	42.195 km,	211.1861595,	3:31 min/km	17.0 
 
 ### 3. Moscow Marathon Split Results 2018
 
-- **Below sample file 1_split_results_mm_2018.csv**
+- **1_split_results_mm_2018.csv**
 
 
 Columns :     {bib,	split_name,	split,	split_time_sec,	split_time_result,	split_pace_sec,	split_pace(minpkm),	split_pace(kmph),	split_uniform_index}
