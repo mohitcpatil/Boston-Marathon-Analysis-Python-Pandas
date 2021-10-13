@@ -1,6 +1,6 @@
 # Boston-Moscow Marathon Analysis 
 
-Analyzed the marathon runners’ split finished times to determine top finishers as per the success ratio of the country. This analysis helped to find out the strategies used by top finishers (Positive or Negative split) to complete the marathon effectively
+Analyzed the marathon runners’ split finished times to determine top finishers as per the success ratio of the country. This analysis helped to find out the strategies used by top finishers (Positive or Negative split) to complete the marathon effectively.
 
 ## Project Datasets
 
